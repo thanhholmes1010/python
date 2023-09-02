@@ -1,3 +1,4 @@
+# atcoder 308
 def check():
     array = [125, 175, 250, 300, 400, 525, 600, 650]
     for i in range(0, 7):
